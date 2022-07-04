@@ -196,7 +196,7 @@ REA (regenerative Energieanlagen) und EVU (Energieversorgungsunternehmen)</detai
 
 
  <details><summary><b>Was ist das NOVA Prinzip?</b></summary>
-Netz Vertärken, Optimieren, Ausbauen</details>
+Netz Optimieren, Vertärken, Ausbauen</details>
 
 
  <details><summary><b>Wie kann man Komponentenzustände einordnen?</b></summary>
